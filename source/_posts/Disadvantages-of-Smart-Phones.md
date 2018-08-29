@@ -1,26 +1,27 @@
 ---
 title: Disadvantages of Smartphones
-date: 2018-3-11 10:50:00
+date: 2018-08-29 10:50:00
 category: Define Smartphone
+photos: /css/images/2.jpg
 ---
-
-![Crowds in subway train](/css/images/2.jpg)
 
 Nielsen estimated that simply by Christmas of 2011, about 50 % of People in America would own a smartphone. And just why not? They're easy and offer you with on-the-go information, programs that help manage public mass media accounts, appointment reminders, Net connectivity for world wide web browsing and music. Smartphones contain changed just how people receive information. But also for all they deliver in the form of convenience, they also include some notable drawbacks.
 
-## Cost
+<!-- more -->
+
+# Cost
 
 Arguably the largest disadvantage of a smartphone is its expense compared to standard mobile phones. A smartphone costs considerably more in advance -- on the order of a couple of hundred dollars, versus less than about a third of this cost for a typical phone. Smartphones additionally require expensive data strategies, which most standard cell phones do not, producing your payment significantly more expensive.
 
-## Security
+# Security
 
 Smartphones are able to access the Internet, either through Wi-Fi or a data bundle. But data security can be an issue. The programs you download and the passwords that you insight into these applications and websites while on-the-go tend to be not secure, at least with regards to account privacy. This signifies that Access to the internet on an insecure network places you vulnerable to identification theft and hacked accounts. That's why you should entirely log out of applications and websites after you're finished with a session. With regard to convenience, various smartphone owners don't do hence, however, leaving their info vulnerable to hacking.
 
-## Distraction
+# Distraction
 
 Smartphones are actually distractors, which potentially lower worker productivity and preserve consumers off-task. With a gadget that matches into your pocket and can accomplish so substantially, it's only natural you are constantly looking at email, sports scores, texts, Facebook and browsing the net. This cuts into period spent centered on business projects. Also, smartphone users often take up on the units during conferences and seminars, instead of focus on the presentations.
 
-## Typing
+# Typing
 
 Smartphones have built-found in and built-on keyboards (for touch screen interfaces) for things like typing email messages, notes and websites. However the keyboard is significantly smaller on the smartphone user interface than it really is on a pc and persona are packed closely alongside one another, which limits how fast you can type. Also is you are often just typing with a single hand, as you hand needs to support the phone, which can bring about stress and overuse accidental injuries in your typing hand. Additionally, you should access different types of the keyboard for particular individuals and numerals, which likewise impedes the acceleration of your typing.
 

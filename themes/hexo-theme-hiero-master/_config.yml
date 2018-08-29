@@ -7,8 +7,8 @@ menu:
   Home: /
   Archives: archives
   Categories: categories
-  Tags: tags
   About: about
+  Gallery: gallery
 rss: /atom.xml
 
 since: 2013
@@ -135,7 +135,7 @@ google_analytics:
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-busuanzi_analytics: true
+busuanzi_analytics: false
 twitter:
 google_plus:
 fb_admins:
